@@ -24,5 +24,6 @@
   "useCompilerFolder": true,
   "githubRunnerShell": "powershell",
   "templateUrl": "https://github.com/BusinessCentralApps/tmpSUtfAh-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/BusinessCentralApps/tmpSUtfAh-Actions/main/settings.schema.json"
+  "$schema": "https://raw.githubusercontent.com/BusinessCentralApps/tmpSUtfAh-Actions/main/settings.schema.json",
+  "templateSha": "6ea6dac90cc76d5cc430bfdbfc6c762d0fec0f32"
 }
